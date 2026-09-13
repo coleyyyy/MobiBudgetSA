@@ -242,3 +242,7 @@ The GitHub Actions workflow automatically runs:
 
 ```text
 ./gradlew testDebugUnitTest
+
+## Demo Video
+
+[Watch the MobiBudget SA Demo](https://youtu.be/Mi0GdLQNdTI)
