@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "592433421217",
+    "project_id": "mobibudget-sa",
+    "storage_bucket": "mobibudget-sa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592433421217:android:b85ee8c1e94efebaadc9e0",
+        "android_client_info": {
+          "package_name": "com.example.mobibudgetsa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALR525-qdnMYgkm84f74oq7x6Kncn4gLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
